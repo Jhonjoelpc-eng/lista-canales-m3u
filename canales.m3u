@@ -1,343 +1,296 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="ATV HD" tvg-logo="https://i.imgur.com/atv-logo.png" group-title="Perú",ATV HD
-http://181.189.244.252:8000/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-name="Fillka Tv" tvg-logo="https://i.imgur.com/fillka-logo.png" group-title="Perú",Fillka Tv
-https://media2.streambrothers.com:19360/8028/8028.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-name="Latina" tvg-logo="https://i.imgur.com/latina-logo.png" group-title="Perú",Latina
-http://179.51.136.19:8000/play/a1as/index.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="America" tvg-logo="https://i.imgur.com/america-logo.png" group-title="Perú",America
-http://200.60.124.19:29000/play/a04r/index.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="Panamericana" tvg-logo="https://i.imgur.com/panamericana-logo.png" group-title="Perú",Panamericana
-http://200.60.124.19:29000/play/a04s/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/willax-logo.png" group-title="Perú",Willax TV
-http://200.60.124.19:29000/play/a06s/index.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-name="RPP" tvg-logo="https://i.imgur.com/rpp-logo.png" group-title="Perú",RPP
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/12893
-
-#EXTINF:-1 tvg-id="8" tvg-name="Caracol HD" tvg-logo="https://i.imgur.com/caracol-logo.png" group-title="Colombia",Caracol HD
-http://181.78.14.26:8000/play/a00d
-
-#EXTINF:-1 tvg-id="9" tvg-name="Telepacifico" tvg-logo="https://i.imgur.com/telepacifico-logo.png" group-title="Colombia",Telepacifico
-http://fortv.cc:8080/90820916/64752029/78729
-
-#EXTINF:-1 tvg-id="10" tvg-name="WinSports" tvg-logo="https://i.imgur.com/winsports-logo.png" group-title="Colombia",WinSports
-http://fortv.cc:8080/90820916/64752029/78717
-
-#EXTINF:-1 tvg-id="11" tvg-name="Win Sport +" tvg-logo="https://i.imgur.com/winsport-plus-logo.png" group-title="Colombia",Win Sport +
-http://179.51.136.19:8000/play/a1bp/index.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-name="Ciudad Magazin" tvg-logo="https://i.imgur.com/ciudad-magazin-logo.png" group-title="Colombia",Ciudad Magazin
-https://is.gd/fIKFdB
-
-#EXTINF:-1 tvg-id="13" tvg-name="TVE" tvg-logo="https://i.imgur.com/tve-logo.png" group-title="España",TVE
-https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/SHO_L-APRO/mp4/7/2/1729270243327.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16294073
-
-#EXTINF:-1 tvg-id="14" tvg-name="LA 2" tvg-logo="https://i.imgur.com/la2-logo.png" group-title="España",LA 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="15" tvg-name="TELEMUNDO" tvg-logo="https://i.imgur.com/telemundo-logo.png" group-title="Internacional",TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="16" tvg-name="TELEMUNDO SD" tvg-logo="https://i.imgur.com/telemundo-logo.png" group-title="Internacional",TELEMUNDO SD
-http://200.60.124.19:29000/play/a01g
-
-#EXTINF:-1 tvg-id="17" tvg-name="Telemundo Latino" tvg-logo="https://i.imgur.com/telemundo-latino-logo.png" group-title="Internacional",Telemundo Latino
-http://181.119.86.68:8000/play/b023/index.m3u8
-
-#EXTINF:-1 tvg-id="18" tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/cnn-esp-logo.png" group-title="Noticias",CNN ESPAÑOL
-http://45.176.193.222:2405/play/a019
-
-#EXTINF:-1 tvg-id="19" tvg-name="RT NOTICIAS" tvg-logo="https://i.imgur.com/rt-logo.png" group-title="Noticias",RT NOTICIAS
-https://rt-esp.servicecdn.ru/dvr/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="20" tvg-name="DW" tvg-logo="https://i.imgur.com/dw-logo.png" group-title="Noticias",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="21" tvg-name="AMX NOTICIAS" tvg-logo="https://i.imgur.com/amx-logo.png" group-title="Noticias",AMX NOTICIAS
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="22" tvg-name="CTGN" tvg-logo="https://i.imgur.com/cgtn-logo.png" group-title="Noticias",CTGN
-https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?ads_amagi_channel=878&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5546&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=85d4d485-e2b6-46a6-b499-c9e9086710e3&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-
-#EXTINF:-1 tvg-id="23" tvg-name="Discovery HD" tvg-logo="https://i.imgur.com/discovery-logo.png" group-title="Documentales",Discovery HD
-http://181.119.86.68:8000/play/c012/index.m3u8
-
-#EXTINF:-1 tvg-id="24" tvg-name="Discovery HYH" tvg-logo="https://i.imgur.com/discovery-hyh-logo.png" group-title="Documentales",Discovery HYH
-http://181.119.86.68:8000/play/c001/index.m3u8
-
-#EXTINF:-1 tvg-id="25" tvg-name="Discovery ID" tvg-logo="https://i.imgur.com/discovery-id-logo.png" group-title="Documentales",Discovery ID
-http://181.119.86.68:8000/play/c001/index.m3u8
-
-#EXTINF:-1 tvg-id="26" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/discovery-kids-logo.png" group-title="Infantil",Discovery Kids
-http://181.119.85.222:8000/play/a009/index.m3u8
-
-#EXTINF:-1 tvg-id="27" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/discovery-science-logo.png" group-title="Documentales",Discovery Science
-http://181.119.85.222:8000/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/discovery-turbo-logo.png" group-title="Documentales",Discovery Turbo
-http://181.119.85.222:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-id="29" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/animal-planet-logo.png" group-title="Documentales",Animal Planet
-http://181.119.85.222:8000/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/natgeo-logo.png" group-title="Documentales",National Geographic
-http://179.51.136.19:8000/play/a1bd/index.m3u8
-
-#EXTINF:-1 tvg-id="31" tvg-name="History" tvg-logo="https://i.imgur.com/history-logo.png" group-title="Documentales",History
-http://181.119.86.68:8000/play/c020/index.m3u8
-
-#EXTINF:-1 tvg-id="32" tvg-name="History 2" tvg-logo="https://i.imgur.com/history2-logo.png" group-title="Documentales",History 2
-http://181.119.85.222:8000/play/a022/index.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="AE" tvg-logo="https://i.imgur.com/ae-logo.png" group-title="Documentales",AE
-http://181.119.86.68:8000/play/c013/index.m3u8
-
-#EXTINF:-1 tvg-id="34" tvg-name="DHE" tvg-logo="https://i.imgur.com/dhe-logo.png" group-title="Documentales",DHE
-http://181.119.86.68:8000/play/b006/index.m3u8
-
-#EXTINF:-1 tvg-id="35" tvg-name="Golden" tvg-logo="https://i.imgur.com/golden-logo.png" group-title="Películas",Golden
-http://181.119.85.222:8000/play/a00u/index.m3u8
-
-#EXTINF:-1 tvg-id="36" tvg-name="Golden Premiere" tvg-logo="https://i.imgur.com/golden-premiere-logo.png" group-title="Películas",Golden Premiere
-http://200.125.170.122:8000/play/a00l
-
-#EXTINF:-1 tvg-id="37" tvg-name="Cine Canal" tvg-logo="https://i.imgur.com/cinecanal-logo.png" group-title="Películas",Cine Canal
-http://181.119.86.68:8000/play/b036/index.m3u8
-
-#EXTINF:-1 tvg-id="38" tvg-name="Cine Max" tvg-logo="https://i.imgur.com/cinemax-logo.png" group-title="Películas",Cine Max
-http://181.78.201.70:8000/play/a0hi/index.m3u8
-
-#EXTINF:-1 tvg-id="39" tvg-name="FX" tvg-logo="https://i.imgur.com/fx-logo.png" group-title="Películas",FX
-http://181.119.85.222:8000/play/a00s/index.m3u8
-
-#EXTINF:-1 tvg-id="40" tvg-name="De Pelicula" tvg-logo="https://i.imgur.com/depelicula-logo.png" group-title="Películas",De Pelicula
-http://181.119.85.222:8000/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-id="41" tvg-name="SONY MOVIES HD" tvg-logo="https://i.imgur.com/sony-movies-logo.png" group-title="Películas",SONY MOVIES HD
-http://179.51.136.19:8000/play/a1aa/index.m3u8
-
-#EXTINF:-1 tvg-id="42" tvg-name="SPACE" tvg-logo="https://i.imgur.com/space-logo.png" group-title="Películas",SPACE
-http://181.78.106.127:9000/play/ca072/index.m3u8
-
-#EXTINF:-1 tvg-id="43" tvg-name="STAR" tvg-logo="https://i.imgur.com/star-logo.png" group-title="Películas",STAR
-http://181.119.86.68:8000/play/b014/index.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="STAR CHANNEL SD" tvg-logo="https://i.imgur.com/star-logo.png" group-title="Películas",STAR CHANNEL SD
-http://200.60.124.19:29000/play/a01r
-
-#EXTINF:-1 tvg-id="45" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/studio-universal-logo.png" group-title="Películas",STUDIO UNIVERSAL
-http://181.119.86.68:8000/play/c024/index.m3u8
-
-#EXTINF:-1 tvg-id="46" tvg-name="TCM" tvg-logo="https://i.imgur.com/tcm-logo.png" group-title="Películas",TCM
-http://200.60.124.19:29000/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-id="47" tvg-name="TNT" tvg-logo="https://i.imgur.com/tnt-logo.png" group-title="Películas",TNT
-http://179.51.136.19:8000/play/a1af/index.m3u8
-
-#EXTINF:-1 tvg-id="48" tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/tnt-series-logo.png" group-title="Series",TNT SERIES
-http://179.51.136.19:8000/play/a1al/index.m3u8
-
-#EXTINF:-1 tvg-id="49" tvg-name="Universal TV" tvg-logo="https://i.imgur.com/universal-tv-logo.png" group-title="Series",Universal TV
-http://181.119.85.222:8000/play/a00x/index.m3u8
-
-#EXTINF:-1 tvg-id="50" tvg-name="Warner HD" tvg-logo="https://i.imgur.com/warner-logo.png" group-title="Películas",Warner HD
-http://179.51.136.19:8000/play/a0wx/index.m3u8
-
-#EXTINF:-1 tvg-id="51" tvg-name="WARNER SD" tvg-logo="https://i.imgur.com/warner-logo.png" group-title="Películas",WARNER SD
-http://200.60.124.19:29000/play/a013
-
-#EXTINF:-1 tvg-id="52" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/sony-logo.png" group-title="Películas",SONY HD
-http://181.119.86.68:8000/play/c023/index.m3u8
-
-#EXTINF:-1 tvg-id="53" tvg-name="AMC" tvg-logo="https://i.imgur.com/amc-logo.png" group-title="Películas",AMC
-http://181.78.106.127:9000/play/ca080/index.m3u8
-
-#EXTINF:-1 tvg-id="54" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/axn-logo.png" group-title="Películas",AXN HD
-http://181.119.85.222:8000/play/a01y/index.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/paramount-logo.png" group-title="Películas",PARAMOUNT
-http://179.51.136.19:8000/play/a1am/index.m3u8
-
-#EXTINF:-1 tvg-id="56" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/hbo-logo.png" group-title="Premium",HBO HD
-http://181.189.244.253:8000/play/a018/index.m3u8
-
-#EXTINF:-1 tvg-id="57" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/hbo2-logo.png" group-title="Premium",HBO2 HD
-http://181.189.244.253:8000/play/a019/index.m3u8
-
-#EXTINF:-1 tvg-id="58" tvg-name="HBO Plus HD" tvg-logo="https://i.imgur.com/hbo-plus-logo.png" group-title="Premium",HBO Plus HD
-http://181.189.244.253:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-id="59" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/hbo-family-logo.png" group-title="Premium",HBO Family HD
-http://181.189.244.253:8000/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-id="60" tvg-name="HBO XTREME" tvg-logo="https://i.imgur.com/hbo-xtreme-logo.png" group-title="Premium",HBO XTREME
-http://181.189.244.253:8000/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-id="61" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/cartoon-network-logo.png" group-title="Infantil",Cartoon Network
-http://181.78.201.70:8000/play/a0h0/index.m3u8
-
-#EXTINF:-1 tvg-id="62" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/disney-channel-logo.png" group-title="Infantil",Disney Channel
-http://181.119.86.68:8000/play/c003/index.m3u8
-
-#EXTINF:-1 tvg-id="63" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/disney-junior-logo.png" group-title="Infantil",Disney Junior
-http://179.51.136.19:8000/play/a1g3/index.m3u8
-
-#EXTINF:-1 tvg-id="64" tvg-name="NICK" tvg-logo="https://i.imgur.com/nick-logo.png" group-title="Infantil",NICK
-http://179.51.136.19:8000/play/a0q4/index.m3u8
-
-#EXTINF:-1 tvg-id="65" tvg-name="TOONCAST" tvg-logo="https://i.imgur.com/tooncast-logo.png" group-title="Infantil",TOONCAST
-http://179.51.136.19:8000/play/a0wh/index.m3u8
-
-#EXTINF:-1 tvg-id="66" tvg-name="ESPN" tvg-logo="https://i.imgur.com/espn-logo.png" group-title="Deportes",ESPN
-http://fortv.cc:8080/90820916/64752029/86765
-
-#EXTINF:-1 tvg-id="67" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/espn2-logo.png" group-title="Deportes",ESPN 2
-http://181.119.86.68:8000/play/b032/index.m3u8
-
-#EXTINF:-1 tvg-id="68" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/espn3-logo.png" group-title="Deportes",ESPN 3
-http://181.119.86.68:8000/play/b033/index.m3u8
-
-#EXTINF:-1 tvg-id="69" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/espn4-logo.png" group-title="Deportes",ESPN 4
-http://181.119.85.222:8000/play/a00j/index.m3u8
-
-#EXTINF:-1 tvg-id="70" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/espn5-logo.png" group-title="Deportes",ESPN 5
-http://181.119.86.68:8000/play/b028/index.m3u8
-
-#EXTINF:-1 tvg-id="71" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/espn6-logo.png" group-title="Deportes",ESPN 6
-http://181.119.85.222:8000/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-id="72" tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/fox-sports-logo.png" group-title="Deportes",Fox Sports
-http://181.78.106.127:9000/play/ca032/index.m3u8
-
-#EXTINF:-1 tvg-id="73" tvg-name="DirectTV Sports" tvg-logo="https://i.imgur.com/directv-sports-logo.png" group-title="Deportes",DirectTV Sports
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
-
-#EXTINF:-1 tvg-id="74" tvg-name="DirectTV Sports 2" tvg-logo="https://i.imgur.com/directv-sports2-logo.png" group-title="Deportes",DirectTV Sports 2
-http://179.51.136.19:8000/play/a112/index.m3u8
-
-#EXTINF:-1 tvg-id="75" tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/tnt-sports-logo.png" group-title="Deportes",TNT SPORTS
-http://179.51.136.19:8000/play/a0px/index.m3u8
-
-#EXTINF:-1 tvg-id="76" tvg-name="TYC SPORTS" tvg-logo="https://i.imgur.com/tyc-sports-logo.png" group-title="Deportes",TYC SPORTS
-http://179.51.136.19:8000/play/a1h0/index.m3u8
-
-#EXTINF:-1 tvg-id="77" tvg-name="LIGA 1 MAX" tvg-logo="https://i.imgur.com/liga1max-logo.png" group-title="Deportes",LIGA 1 MAX
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/478009
-
-#EXTINF:-1 tvg-id="78" tvg-name="LIGA 1 MAX 2" tvg-logo="https://i.imgur.com/liga1max2-logo.png" group-title="Deportes",LIGA 1 MAX 2
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/469158
-
-#EXTINF:-1 tvg-id="79" tvg-name="MOVISTAR DEPORTE" tvg-logo="https://i.imgur.com/movistar-deporte-logo.png" group-title="Deportes",MOVISTAR DEPORTE
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203769
-
-#EXTINF:-1 tvg-id="80" tvg-name="LIGA DE CAMPEONES" tvg-logo="https://i.imgur.com/champions-league-logo.png" group-title="Deportes",LIGA DE CAMPEONES
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203795
-
-#EXTINF:-1 tvg-id="81" tvg-name="EUROSPORT HD" tvg-logo="https://i.imgur.com/eurosport-logo.png" group-title="Deportes",EUROSPORT HD
-http://87.120.179.187:8000/play/a02c
-
-#EXTINF:-1 tvg-id="82" tvg-name="Max Sport 1 HD" tvg-logo="https://i.imgur.com/max-sport-logo.png" group-title="Deportes",Max Sport 1 HD
-http://87.120.179.187:8000/play/a00k
-
-#EXTINF:-1 tvg-id="83" tvg-name="Redbull TV" tvg-logo="https://i.imgur.com/redbull-logo.png" group-title="Deportes",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="84" tvg-name="Racer" tvg-logo="https://i.imgur.com/racer-logo.png" group-title="Deportes",Racer
-https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="85" tvg-name="MTV" tvg-logo="https://i.imgur.com/mtv-logo.png" group-title="Música",MTV
-http://179.51.136.19:8000/play/a0um/index.m3u8
-
-#EXTINF:-1 tvg-id="86" tvg-name="HTV" tvg-logo="https://i.imgur.com/htv-logo.png" group-title="Música",HTV
-http://179.51.136.19:8000/play/a14l/index.m3u8
-
-#EXTINF:-1 tvg-id="87" tvg-name="1 Mus" tvg-logo="https://i.imgur.com/1mus-logo.png" group-title="Música",1 Mus
-http://rtmp.one.by:2300/
-
-#EXTINF:-1 tvg-id="88" tvg-name="Garage TV" tvg-logo="https://i.imgur.com/garage-tv-logo.png" group-title="Música",Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-id="89" tvg-name="Los Heat TV" tvg-logo="https://i.imgur.com/los-heat-logo.png" group-title="Música",Los Heat TV
-https://mdstrm.com/video/631f6f0fe4eba7082bc551ad.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="90" tvg-name="NOW ROCK" tvg-logo="https://i.imgur.com/now-rock-logo.png" group-title="Música",NOW ROCK
-https://bit.ly/3B1M54o?/playlist.m3u8
-
-#EXTINF:-1 tvg-id="91" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/trace-urban-logo.png" group-title="Música",TRACE URBAN
-https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="92" tvg-name="Страна FM" tvg-logo="https://i.imgur.com/strana-fm-logo.png" group-title="Música",Страна FM
-https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="93" tvg-name="PASIONES" tvg-logo="https://i.imgur.com/pasiones-logo.png" group-title="Novelas",PASIONES
-http://179.51.136.19:8000/play/a1bv/index.m3u8
-
-#EXTINF:-1 tvg-id="94" tvg-name="Pasiones HD" tvg-logo="https://i.imgur.com/pasiones-hd-logo.png" group-title="Novelas",Pasiones HD
-http://45.176.71.20:1689/play/a0nt
-
-#EXTINF:-1 tvg-id="95" tvg-name="Tlnovelas" tvg-logo="https://i.imgur.com/tlnovelas-logo.png" group-title="Novelas",Tlnovelas
-http://181.119.85.222:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-id="96" tvg-name="TNT Novelas" tvg-logo="https://i.imgur.com/tnt-novelas-logo.png" group-title="Novelas",TNT Novelas
-http://200.60.124.19:29000/play/a06r
-
-#EXTINF:-1 tvg-id="97" tvg-name="KANAL D DRAMA" tvg-logo="https://i.imgur.com/kanal-d-logo.png" group-title="Novelas",KANAL D DRAMA
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-id="98" tvg-name="MyTime" tvg-logo="https://i.imgur.com/mytime-logo.png" group-title="Novelas",MyTime
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
-
-#EXTINF:-1 tvg-id="99" tvg-name="Distrito Comedia" tvg-logo="https://i.imgur.com/distrito-comedia-logo.png" group-title="Entretenimiento",Distrito Comedia
-http://181.119.85.222:8000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="100" tvg-name="FARRA PLAY" tvg-logo="https://i.imgur.com/farra-play-logo.png" group-title="Entretenimiento",FARRA PLAY
-http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="101" tvg-name="MOVISTAR TV" tvg-logo="https://i.imgur.com/movistar-tv-logo.png" group-title="Entretenimiento",MOVISTAR TV
-http://179.51.136.19:8000/play/a1hu/index.m3u8
-
-#EXTINF:-1 tvg-id="102" tvg-name="13 MAX" tvg-logo="https://i.imgur.com/13max-logo.png" group-title="Entretenimiento",13 MAX
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="103" tvg-name="ABC" tvg-logo="https://i.imgur.com/abc-logo.png" group-title="Internacional",ABC
-http://fortv.cc:8080/90820916/64752029/120855
-
-#EXTINF:-1 tvg-id="104" tvg-name="CANAL RUSO" tvg-logo="https://i.imgur.com/canal-ruso-logo.png" group-title="Internacional",CANAL RUSO
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="105" tvg-name="NTV RUSO" tvg-logo="https://i.imgur.com/ntv-logo.png" group-title="Internacional",NTV RUSO
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="106" tvg-name="NTV HIT RUSO" tvg-logo="https://i.imgur.com/ntv-hit-logo.png" group-title="Internacional",NTV HIT RUSO
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="107" tvg-name="NTV-Pravo RUSO" tvg-logo="https://i.imgur.com/ntv-pravo-logo.png" group-title="Internacional",NTV-Pravo RUSO
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="108" tvg-name="NTV-Serial-HD" tvg-logo="https://i.imgur.com/ntv-serial-logo.png" group-title="Internacional",NTV-Serial-HD
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="109" tvg-name="NTV-Style-HD" tvg-logo="https://i.imgur.com/ntv-style-logo.png" group-title="Internacional",NTV-Style-HD
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="110" tvg-name="BigAsia HD" tvg-logo="https://i.imgur.com/bigasia-logo.png" group-title="Internacional",BigAsia HD
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="111" tvg-name="Sochi Live HD" tvg-logo="https://i.imgur.com/sochi-logo.png" group-title="Internacional",Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="112" tvg-name="ACTION HD RUSO" tvg-logo="https://i.imgur.com/action-ruso-logo.png" group-title="Internacional",ACTION HD RUSO
-http://87.120.179.187:8000/play/a00v
-
-#EXTINF:-1 tvg-id="113" tvg-name="RINGHD" tvg-logo="https://i.imgur.com/ringhd-logo.png" group-title="Internacional",RINGHD
-http://87.120.179.187:8000/play/a00w
-
-#EXTINF:-1 tvg-id="114" tvg-name="CITYRADIO" tvg-logo="https://i.imgur.com/cityradio-logo.png" group-title="Internacional",CITYRADIO
-http://87.120.179.187:8000/play/a001 
+#EXTINF :-0, A&E HD
+209.45.101.36 :50000/play/AyEHD/index.m3u8
+#EXTINF :-0, AMC HD
+209.45.101.36 :50000/play/AMCHD/index.m3u8
+#EXTINF :-0, ATRES SERIES HD
+209.45.101.36 :50000/play/a1ae/index.m3u8
+#EXTINF :-0, ATV
+209.45.101.36 :50000/play/ATV/index.m3u8
+#EXTINF :-0, AXN HD
+209.45.101.36 :50000/play/AXNHD/index.m3u8
+#EXTINF :-0, America TV HD
+209.45.101.36 :50000/play/AmericaTVHD/index.m3u8
+#EXTINF :-0, Animal Planet HD
+209.45.101.36 :50000/play/AnimalPlanetHD/index.m3u8
+#EXTINF :-0, Antena 3
+209.45.101.36 :50000/play/Antena3/index.m3u8
+#EXTINF :-0, Baby TV
+209.45.101.36 :50000/play/BabyTV/index.m3u8
+#EXTINF :-0, CHV HD
+209.45.101.36 :50000/play/CHVHD/index.m3u8
+#EXTINF :-0, CNN Chile HD
+209.45.101.36 :50000/play/CNNChileHD/index.m3u8
+#EXTINF :-0, CNN International
+209.45.101.36 :50000/play/CNNInternational/index.m3u8
+#EXTINF :-0, CableNoticias
+209.45.101.36 :50000/play/CableNoticias/index.m3u8
+#EXTINF :-0, Canal 1
+209.45.101.36 :50000/play/Canal1/index.m3u8
+#EXTINF :-0, Canal 13
+209.45.101.36 :50000/play/Canal13/index.m3u8
+#EXTINF :-0, Canal 13 HD
+209.45.101.36 :50000/play/Canal13HD/index.m3u8
+#EXTINF :-0, Canal 24 Horas HD
+209.45.101.36 :50000/play/Canal24HorasHD/index.m3u8
+#EXTINF :-0, Canal Capital
+209.45.101.36 :50000/play/CanalCapital/index.m3u8
+#EXTINF :-0, Canal Institucional
+209.45.101.36 :50000/play/CanalInstitucional/index.m3u8
+#EXTINF :-0, Canal N
+209.45.101.36 :50000/play/CanalN/index.m3u8
+#EXTINF :-0, Canal TRO
+209.45.101.36 :50000/play/CanalTRO/index.m3u8
+#EXTINF :-0, Caracol
+209.45.101.36 :50000/play/Caracol/index.m3u8
+#EXTINF :-0, Cartoon Network HD
+209.45.101.36 :50000/play/CartoonNetworkHD/index.m3u8
+#EXTINF :-0, Cartoonito
+209.45.101.36 :50000/play/Cartoonito/index.m3u8
+#EXTINF :-0, Cinecanal HD
+209.45.101.36:50000/play/CinecanalHD/index.m3u8
+#EXTINF :-0, Cinemax HD
+209.45.101.36 :50000/play/CinemaxHD/index.m3u8
+#EXTINF :-0, City TV
+209.45.101.36 :50000/play/CityTV/index.m3u8
+#EXTINF :-0, Clover HD
+209.45.101.36 :50000/play/CloverHD/index.m3u8
+#EXTINF :-0, DHE HD
+209.45.101.36 :50000/play/DHEHD/index.m3u8
+#EXTINF :-0, DW (Deutsch +)
+209.45.101.36 :50000/play/DWDeutschPlus/index.m3u8
+#EXTINF :-0, De Pelicula
+209.45.101.36 :50000/play/DePelicula/index.m3u8
+#EXTINF :-0, Discovery H&H HD
+209.45.101.36 :50000/play/DiscoveryHyHHD/index.m3u8
+#EXTINF :-0, Discovery HD
+209.45.101.36 :50000/play/a1ab/index.m3u8
+#EXTINF :-0, Discovery Kids HD
+209.45.101.36 :50000/play/DiscoveryKidsHD/index.m3u8
+#EXTINF :-0, Discovery Theater HD
+209.45.101.36 :50000/play/DiscoveryTheaterHD/index.m3u8
+#EXTINF :-0, Discovery Turbo
+209.45.101.36 :50000/play/DiscoveryTurbo/index.m3u8
+#EXTINF :-0, Discovery World HD
+209.45.101.36 :50000/play/DiscoveryWorldHD/index.m3u8
+#EXTINF :-0, Disney HD
+209.45.101.36 :50000/play/a1ac/index.m3u8
+#EXTINF :-0, Disney Jr
+209.45.101.36 :50000/play/a1a3/index.m3u8
+#EXTINF :-0, Disney Junior
+209.45.101.36 :50000/play/a1a6/index.m3u8
+#EXTINF :-0, E! HD
+209.45.101.36 :50000/play/E!HD/index.m3u8
+#EXTINF :-0, ESPN 2 HD
+209.45.101.36 :50000/play/ESPN2HD/index.m3u8
+#EXTINF :-0, ESPN 3 HD
+209.45.101.36 :50000/play/ESPN3HD/index.m3u8
+#EXTINF :-0, ESPN 4 HD
+209.45.101.36 :50000/play/ESPN4HD/index.m3u8
+#EXTINF :-0, ESPN EXTRA HD
+209.45.101.36 :50000/play/ESPNEXTRAHD/index.m3u8
+#EXTINF :-0, ESPN HD
+209.45.101.36 :50000/play/ESPNHD/index.m3u8
+#EXTINF :-0, ETC TV
+209.45.101.36 :50000/play/ETCTV/index.m3u8
+#EXTINF :-0, EWTN
+209.45.101.36 :50000/play/EWTN/index.m3u8
+#EXTINF :-0, EXITOSA
+209.45.101.36 :50000/play/a1a5/index.m3u8
+#EXTINF :-0, El Gourmet HD
+209.45.101.36:50000/play/a1ag/index.m3u8
+#EXTINF :-0, Epoca
+209.45.101.36 :50000/play/Epoca/index.m3u8
+#EXTINF :-0, Eurochannel
+209.45.101.36 :50000/play/Eurochannel/index.m3u8
+#EXTINF :-0, Europa Europa
+209.45.101.36 :50000/play/EuropaEuropa/index.m3u8
+#EXTINF :-0, FOX Sports 2 HD
+209.45.101.36 :50000/play/FOXSports2HD/index.m3u8
+#EXTINF :-0, FX HD
+209.45.101.36 :50000/play/FXHD/index.m3u8
+#EXTINF :-0, Film&Arts
+209.45.101.36 :50000/play/FilmyArts/index.m3u8
+#EXTINF :-0, Food Network HD
+209.45.101.36 :50000/play/FoodNetworkHD/index.m3u8
+#EXTINF :-0, Fox News
+209.45.101.36 :50000/play/a191/index.m3u8
+#EXTINF :-0, Fox Sports 1
+209.45.101.36 :50000/play/FoxSports1/index.m3u8
+#EXTINF :-0, Fox Sports 3 HD
+209.45.101.36 :50000/play/FoxSports3HD/index.m3u8
+#EXTINF :-0, GLOBAL
+209.45.101.36 :50000/play/GLOBAL/index.m3u8
+#EXTINF :-0, GOLPERU HD
+209.45.101.36 :50000/play/GOLPERUHD/index.m3u8
+#EXTINF :-0, Globovision
+209.45.101.36 :50000/play/a1ai/index.m3u8
+#EXTINF :-0, GolTV HD
+209.45.101.36 :50000/play/GolTVHD/index.m3u8
+#EXTINF :-0, Golden HD
+209.45.101.36 :50000/play/GoldenHD/index.m3u8
+#EXTINF :-0, HBO 2 HD
+209.45.101.36 :50000/play/HBO2HD/index.m3u8
+#EXTINF :-0, HBO Family HD
+209.45.101.36 :50000/play/HBOFamilyHD/index.m3u8
+#EXTINF :-0, HBO HD
+209.45.101.36 :50000/play/HBOHD/index.m3u8
+#EXTINF :-0, HBO MUNDI
+209.45.101.36 :50000/play/HBOMUNDI/index.m3u8
+#EXTINF :-0, HBO POP HD
+209.45.101.36 :50000/play/HBOPOPHD/index.m3u8
+#EXTINF :-0, HBO Plus
+209.45.101.36 :50000/play/HBOPlus/index.m3u8
+#EXTINF :-0, HBO Signature
+209.45.101.36 :50000/play/HBOSignature/index.m3u8
+#EXTINF :-0, HBO XTREME HD
+209.45.101.36 :50000/play/HBOXTREMEHD/index.m3u8
+#EXTINF :-0, HGTV
+209.45.101.36 :50000/play/HGTV/index.m3u8
+#EXTINF :-0, HOLA TV HD
+209.45.101.36 :50000/play/HOLATVHD/index.m3u8
+#EXTINF :-0, History 2 HD
+209.45.101.36 :50000/play/History2HD/index.m3u8
+#EXTINF :-0, History Channel HD
+209.45.101.36 :50000/play/HistoryChannelHD/index.m3u8
+#EXTINF :-0, ID HD
+209.45.101.36 :50000/play/IDHD/index.m3u8
+#EXTINF :-0, Kanal D Drama HD
+209.45.101.36 :50000/play/KanalDDramaHD/index.m3u8
+#EXTINF :-0, Karibeña Tv
+209.45.101.36 :50000/play/a1a4/index.m3u8
+#EXTINF :-0, La Red HD
+209.45.101.36 :50000/play/LaRedHD/index.m3u8
+#EXTINF :-0, Las Estrellas HD
+209.45.101.36 :50000/play/a1aa/index.m3u8
+#EXTINF :-0, Latina HD
+209.45.101.36 :50000/play/LatinaHD/index.m3u8
+#EXTINF :-0, Lifetime
+209.45.101.36 :50000/play/Lifetime/index.m3u8
+#EXTINF :-0, Lolly Kids HD
+209.45.101.36 :50000/play/LollyKidsHD/index.m3u8
+#EXTINF :-0, Love Nature HD
+209.45.101.36 :50000/play/LoveNatureHD/index.m3u8
+#EXTINF :-0, MEGA HD
+209.45.101.36 :50000/play/MEGAHD/index.m3u8
+#EXTINF :-0, MTV 00s
+209.45.101.36 :50000/play/MTV00s/index.m3u8
+#EXTINF :-0, MTV HD
+209.45.101.36 :50000/play/a1ah/index.m3u8
+#EXTINF :-0, MTV LIVE HD
+209.45.101.36 :50000/play/MTVLIVEHD/index.m3u8
+#EXTINF :-0, MasChic
+209.45.101.36 :50000/play/MasChic/index.m3u8
+#EXTINF :-0, Movistar Deportes HD
+209.45.101.36 :50000/play/MovistarDeportesHD/index.m3u8
+#EXTINF :-0, Movistar Plus
+209.45.101.36 :50000/play/MovistarPlus/index.m3u8
+#EXTINF :-0, NTN 24 Horas
+209.45.101.36 :50000/play/NTN24Horas/index.m3u8
+#EXTINF :-0, NTV
+209.45.101.36 :50000/play/NTV/index.m3u8
+#EXTINF :-0, Nat Geo HD
+209.45.101.36 :50000/play/NatGeoHD/index.m3u8
+#EXTINF :-0, Nick HD
+209.45.101.36 :50000/play/NickHD/index.m3u8
+#EXTINF :-0, Nick Jr
+209.45.101.36 :50000/play/NickJr/index.m3u8
+#EXTINF :-0, Nuestra Tele
+209.45.101.36 :50000/play/NuestraTele/index.m3u8
+#EXTINF :-0, PERÚ MÁGICO
+209.45.101.36 :50000/play/PERÚ MÁGICO/index.m3u8
+#EXTINF:-0, Panamericana
+209.45.101.36 :50000/play/Panamericana/index.m3u8
+#EXTINF :-0, Paramount HD
+209.45.101.36 :50000/play/ParamountHD/index.m3u8
+#EXTINF :-0, Pasiones HD
+209.45.101.36 :50000/play/PasionesHD/index.m3u8
+#EXTINF :-0, Playboy HD
+209.45.101.36 :50000/play/PlayboyHD/index.m3u8
+#EXTINF :-0, RAI
+209.45.101.36 :50000/play/RAI/index.m3u8
+#EXTINF :-0, RCN
+209.45.101.36 :50000/play/RCN/index.m3u8
+#EXTINF :-0, RPP
+209.45.101.36 :50000/play/RPP/index.m3u8
+#EXTINF :-0, STAR CHANNEL HD
+209.45.101.36 :50000/play/STARCHANNELHD/index.m3u8
+#EXTINF :-0, STAR TVE HD
+209.45.101.36 :50000/play/STARTVEHD/index.m3u8
+#EXTINF :-0, Senal Colombia HD
+209.45.101.36 :50000/play/SenalColombiaHD/index.m3u8
+#EXTINF :-0, Sextreme
+209.45.101.36 :50000/play/Sextreme/index.m3u8
+#EXTINF :-0, Sony HD
+209.45.101.36 :50000/play/SonyHD/index.m3u8
+#EXTINF :-0, Space HD
+209.45.101.36 :50000/play/SpaceHD/index.m3u8
+#EXTINF :-0, Stingray Concerts HD
+209.45.101.36 :50000/play/StingrayConcertsHD/index.m3u8
+#EXTINF :-0, Studio Universal HD
+209.45.101.36 :50000/play/StudioUniversalHD/index.m3u8
+#EXTINF :-0, Sun Channel HD
+209.45.101.36 :50000/play/SunChannelHD/index.m3u8
+#EXTINF :-0, SyFy
+209.45.101.36 :50000/play/SyFy/index.m3u8
+#EXTINF :-0, TCM
+209.45.101.36 :50000/play/TCM/index.m3u8
+#EXTINF :-0, TLC
+209.45.101.36 :50000/play/TLC/index.m3u8
+#EXTINF :-0, TNT HD
+209.45.101.36 :50000/play/TNTHD/index.m3u8
+#EXTINF :-0, TNT Novelas
+209.45.101.36 :50000/play/a18v/index.m3u8
+#EXTINF :-0, TNT Novelas HD
+209.45.101.36 :50000/play/a1a9/index.m3u8
+#EXTINF :-0, TNT SPORTS 3
+209.45.101.36 :50000/play/TNTSPORTS3/index.m3u8
+#EXTINF :-0, TNT SPORTS HD
+209.45.101.36 :50000/play/TNTSPORTSHD/index.m3u8
+#EXTINF :-0, TNT Series HD
+209.45.101.36 :50000/play/TNTSeriesHD/index.m3u8
+#EXTINF :-0, TRUTV HD
+209.45.101.36 :50000/play/TRUTVHD/index.m3u8
+#EXTINF :-0, TV PERÚ
+209.45.101.36 :50000/play/TVPERÚ/index.m3u8
+#EXTINF :-0, TV+
+209.45.101.36 :50000/play/TV+/index.m3u8
+#EXTINF :-0, TV+ HD
+209.45.101.36 :50000/play/TVPlusHD/index.m3u8
+#EXTINF :-0, TVE
+209.45.101.36 :50000/play/TVE/index.m3u8
+#EXTINF :-0, TVN HD
+209.45.101.36 :50000/play/TVNHD/index.m3u8
+#EXTINF :-0, Teleantioquia
+209.45.101.36 :50000/play/Teleantioquia/index.m3u8
+#EXTINF :-0, Telecafe
+209.45.101.36 :50000/play/Telecafe/index.m3u8
+#EXTINF :-0, Telecaribe
+209.45.101.36 :50000/play/Telecaribe/index.m3u8
+#EXTINF :-0, Telefe
+209.45.101.36 :50000/play/Telefe/index.m3u8
+#EXTINF :-0, Teleislas
+209.45.101.36 :50000/play/Teleislas/index.m3u8
+#EXTINF :-0, Telemundo
+209.45.101.36 :50000/play/Telemundo/index.m3u8
+#EXTINF :-0, Telenovelas
+209.45.101.36 :50000/play/Telenovelas/index.m3u8
+#EXTINF :-0, Telepacifico
+209.45.101.36 :50000/play/Telepacifico/index.m3u8
+#EXTINF :-0, Telesur
+209.45.101.36 :50000/play/Telesur/index.m3u8
+#EXTINF :-0, Tooncast
+209.45.101.36 :50000/play/Tooncast/index.m3u8
+#EXTINF :-0, TyC Sports HD
+209.45.101.36 :50000/play/TyCSportsHD/index.m3u8
+#EXTINF :-0, UNIVERSAL CHANNEL HD
+209.45.101.36 :50000/play/UNIVERSALCHANNELHD/index.m3u8
+#EXTINF :-0, Venus
+209.45.101.36 :50000/play/Venus/index.m3u8
+#EXTINF :-0, Via X
+209.45.101.36 :50000/play/ViaX/index.m3u8
+#EXTINF :-0, Warner Channel HD
+209.45.101.36 :50000/play/WarnerChannelHD/index.m3u8
+#EXTINF :-0, Win Sports
+209.45.101.36 :50000/play/WinSports/index.m3u8
