@@ -15,3 +15,21 @@ https://www.dailymotion.com/embed/video/k2eC5HQOmJKHuUE1muC?autoplay=1
 https://panamericana.b-cdn.net/live/pantel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg" group-title="Int. América" tvg-name="Cosmos TV Perú",Cosmos TV Perú
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vGvH8O.png" group-title="NACIONAL", LATINA HD
+https://sc.latina.pe/live/latina/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Z6Kz0B.png" group-title="NACIONAL", ATV HD
+https://atv.pe/live/atv/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6L6ZpX.png" group-title="NACIONAL", PANAMERICANA
+https://panamericana.pe/live/panamericana/playlist.m3u8|User-Agent=Mozilla/5.0&Referer=https://panamericana.pe/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U5I2Pj.png" group-title="NACIONAL", TV PERU
+https://cdnb.tvperu.gob.pe/live/tvperu/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6X8j9S.png" group-title="NOTICIAS", RPP NOTICIAS
+https://rpp-live.akamaized.net/hls/live/2034509/rpp/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH5R9Uu.png" group-title="RELIGION", BETEL TV
+https://cdn.btvperu.com/live/betel/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9U9Z8N.png" group-title="REGIONAL", UCAYALINA TV
+https://5a39626354366.streamlock.net/ucayalina/ucayalina/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH5R9Uu.png" group-title="PELICULAS", PLUTO CINE ACCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58a33a05f17f4116938927a4/master.m3u8?deviceType=web
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH5R9Uu.png" group-title="MUSICA", MTV LATIN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/590391696b99097970d47781/master.m3u8?deviceType=web
