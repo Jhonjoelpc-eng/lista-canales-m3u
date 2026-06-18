@@ -33,3 +33,5 @@ https://5a39626354366.streamlock.net/ucayalina/ucayalina/playlist.m3u8|User-Agen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58a33a05f17f4116938927a4/master.m3u8?deviceType=web
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vH5R9Uu.png" group-title="MUSICA", MTV LATIN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/590391696b99097970d47781/master.m3u8?deviceType=web
+#EXTINF:-1,IT_Dazn_Sport_1
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50881
