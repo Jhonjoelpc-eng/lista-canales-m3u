@@ -33,5 +33,20 @@ https://5a39626354366.streamlock.net/ucayalina/ucayalina/playlist.m3u8|User-Agen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58a33a05f17f4116938927a4/master.m3u8?deviceType=web
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vH5R9Uu.png" group-title="MUSICA", MTV LATIN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/590391696b99097970d47781/master.m3u8?deviceType=web
-#EXTINF:-1,DAZN 1 HD
-http://185.228.155.93:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="bein1" tvg-name="beIN Sports 1" group-title="Sports",beIN Sports 1
+https://dai.google.com/linear/hls/event/0dUu0QWqTjKZzjvJv4K3xg/master.m3u8
+
+#EXTINF:-1 tvg-id="canalplus" tvg-name="Canal+ Sport" group-title="Sports",Canal+ Sport
+https://dai.google.com/linear/hls/event/0dUu0QWqTjKZzjvJv4K3xg/master.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" group-title="Sports",Eurosport 1
+https://dai.google.com/linear/hls/event/0dUu0QWqTjKZzjvJv4K3xg/master.m3u8
+
+#EXTINF:-1 tvg-id="rtl9" tvg-name="RTL9" group-title="Films",RTL9
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/fr.m3u8
+
+#EXTINF:-1 tvg-id="tf1series" tvg-name="TF1 Séries Films" group-title="Séries",TF1 Séries Films
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/fr.m3u8
+
+#EXTINF:-1 tvg-id="france2" tvg-name="France 2" group-title="Généralistes",France 2
+https://dai.google.com/linear/hls/event/0dUu0QWqTjKZzjvJv4K3xg/master.m3u8
